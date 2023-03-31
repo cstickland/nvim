@@ -1,0 +1,5 @@
+{
+    "require": {
+        "php-stubs/acf-pro-stubs": "^6.0"
+    }
+}
